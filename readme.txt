@@ -1,10 +1,3 @@
-git is a distributed version control system;
-git is free software distributed under the GPL; ----here fix bug 101
-git has a mutable index called stage.
-git tracks changges of files.
 
-Creating a new branch is quick and simple.
 
------------------add merge ------------------
-test more user submit this files $$$$$$;
-
+趣头条抓取金币工具
